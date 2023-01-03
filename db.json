@@ -29,7 +29,7 @@
       "lastMessage": "Lorem ipsum dolor sit amet, consectetur"
     }
   ],
-  "Messages": [{
+  "Messages": {
     "1efeba24-9e0d-4698-95e1-5df061001c0b": [
       {
         "ChatID": "1efeba24-9e0d-4698-95e1-5df061001c0b",
@@ -189,7 +189,7 @@
         "ChatID": "1efeba24-9e0d-4698-95e1-5df061001c0b",
         "SenderID": "337295eb-cbde-479c-a4ee-683019adc839",
         "MsgID": "b2ee083a-02c4-4469-8512-ef270dff61a4",
-        "Payload": "Привет! 1",
+        "Payload": "Привет! SUUUUIIII",
         "CreatedAt": 1666700712000,
         "SessionStart": true
       },
@@ -333,7 +333,7 @@
         "ChatID": "1efeba24-9e0d-4698-95e1-5df061001c0b",
         "SenderID": "337295eb-cbde-479c-a4ee-683019adc838",
         "MsgID": "b2ee083a-02c4-4469-8512-ef270dff61a7",
-        "Payload": "Какой Михал Палыч?",
+        "Payload": "Какой Михал Палыч? SUUUUIIII",
         "CreatedAt": 1666700712000,
         "SessionStart": true
       }
@@ -647,5 +647,4 @@
       }
     ]
   }
-  ]
 }
